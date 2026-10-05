@@ -1,0 +1,1 @@
+public enum ModoDictado { Ninguno, Dictado, Comandos }

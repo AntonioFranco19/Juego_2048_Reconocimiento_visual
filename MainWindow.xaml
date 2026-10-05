@@ -1,0 +1,60 @@
+<Window x:Class="Juego_2048.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Juego_2048"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800"
+        Focusable="True"
+        Loaded="Window_Loaded"
+        KeyDown="MainWindow_KeyDown"
+        Background="White">
+    <Grid>
+        <StackPanel VerticalAlignment="Bottom"
+                    Margin="20">
+            <TextBlock Foreground="Gray"
+                       Text="Actividad realizada por:"/>
+            <TextBlock Foreground="Gray"
+                       Text="Salvador Robles Ruiz"/>
+            <TextBlock Foreground="Gray"
+                       Text="Antonio Franco Cegarra"/>
+        </StackPanel>
+        <TextBlock x:Name="txtPuntuacion"
+                   HorizontalAlignment="Left"
+                   Height="101"
+                   Margin="194,35,0,0"
+                   TextWrapping="Wrap"
+                   VerticalAlignment="Top"
+                   Width="296"><Run Language="es-es"
+                                    Text="Puntuación"/></TextBlock>
+        <TextBlock x:Name="PuntuacionTexto"
+                   HorizontalAlignment="Left"
+                   Height="56"
+                   Margin="300,30,0,0"
+                   TextWrapping="Wrap"
+                   VerticalAlignment="Top"
+                   Width="92"><Run Language="es-es"
+                                   Text="0"/></TextBlock>
+        <Button Content="Nueva Partida"
+                HorizontalAlignment="Left"
+                Height="56"
+                Margin="511,30,0,0"
+                VerticalAlignment="Top"
+                Width="100"
+                Click="Button_Click_R"/>
+        <Grid x:Name="TableroGrid"
+              HorizontalAlignment="Left"
+              Height="235"
+              Margin="203,119,0,0"
+              VerticalAlignment="Top"
+              Width="408"/>
+        <StackPanel x:Name="BGN_Window">
+            <TextBlock x:Name="VozComandoTexto"/>
+            <TextBlock x:Name="EstadoTexto"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

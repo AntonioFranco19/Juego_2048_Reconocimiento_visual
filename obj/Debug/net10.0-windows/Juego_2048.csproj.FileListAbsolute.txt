@@ -1,0 +1,123 @@
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\bin\Debug\net10.0-windows\Juego_2048.exe
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\bin\Debug\net10.0-windows\Juego_2048.deps.json
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\bin\Debug\net10.0-windows\Juego_2048.runtimeconfig.json
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\bin\Debug\net10.0-windows\Juego_2048.dll
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\bin\Debug\net10.0-windows\Juego_2048.pdb
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.cache
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.lref
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.g.resources
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfoInputs.cache
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfo.cs
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.csproj.CoreCompileInputs.cache
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.dll
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\refint\Juego_2048.dll
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.pdb
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\Juego_2048.genruntimeconfig.cache
+C:\Users\1821195\source\repos\Juego_2048\Juego_2048\obj\Debug\net10.0-windows\ref\Juego_2048.dll
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.exe
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.deps.json
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.runtimeconfig.json
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.dll
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.pdb
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\App.g.cs
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.cache
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.lref
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\MainWindow.baml
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.g.resources
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfoInputs.cache
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfo.cs
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.csproj.CoreCompileInputs.cache
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.dll
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\refint\Juego_2048.dll
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.pdb
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.genruntimeconfig.cache
+D:\DAM\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\ref\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\App.g.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.lref
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\refint\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.pdb
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.csproj.AssemblyReference.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.exe
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.deps.json
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.runtimeconfig.json
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\Juego_2048.pdb
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\System.Speech.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\MainWindow.baml
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.g.resources
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfoInputs.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfo.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.csproj.Up2Date
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\Juego_2048.genruntimeconfig.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_AFC\obj\Debug\net10.0-windows\ref\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\am\final.mdl
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\conf\mfcc.conf
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\conf\model.conf
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\graph\disambig_tid.int
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\graph\Gr.fst
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\graph\HCLr.fst
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\graph\phones\word_boundary.int
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\ivector\final.dubm
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\ivector\final.ie
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\ivector\final.mat
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\ivector\global_cmvn.stats
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\ivector\online_cmvn.conf
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\ivector\splice.conf
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\model\README
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\libgcc_s_seh-1.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\libstdc++-6.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\libvosk.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\libwinpthread-1.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\Juego_2048.exe
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\Juego_2048.deps.json
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\Juego_2048.runtimeconfig.json
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\Juego_2048.pdb
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.Asio.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.Core.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.Dmo.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.Midi.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.Wasapi.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.WinForms.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\NAudio.WinMM.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\System.Numerics.Tensors.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\bin\Debug\net10.0-windows\Vosk.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.csproj.AssemblyReference.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\App.g.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.lref
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\MainWindow.baml
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.g.resources
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfoInputs.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.AssemblyInfo.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.csproj.CoreCompileInputs.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.csproj.Up2Date
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\refint\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.pdb
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\Juego_2048.genruntimeconfig.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048__Vosk\obj\Debug\net10.0-windows\ref\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\Juego_2048.csproj.AssemblyReference.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\MainWindow.g.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\App.g.cs
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.cache
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\Juego_2048_MarkupCompile.lref
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\refint\Juego_2048.dll
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\Juego_2048.pdb
+D:\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\2º\Desarrollo de Interfaces\Proyectos y tareas\Juego_2048_Reconocimiento_visual\obj\Debug\net10.0-windows\Juego_2048_Content.g.cs
