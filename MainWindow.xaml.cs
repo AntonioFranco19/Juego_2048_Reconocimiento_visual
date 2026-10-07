@@ -394,52 +394,69 @@ namespace Juego_2048
                     int h = root.GetProperty("h").GetInt32();
                     var pts = root.GetProperty("pts");   // 63 números: x0, y0, z0, x1, y1, z1, ...
 
-                    var xs = new double[21];
-                    var ys = new double[21];
+                    var xs = new float[21];
+                    var ys = new float[21];
 
-                    var texto = new StringBuilder();
-                    texto.AppendLine(string.Format("{0,2}  {1,-13} {2,6} {3,6} {4,7}   {5,4} {6,4}",
-                        "N", "Punto", "X", "Y", "Z", "Px", "Py"));
+                    // texto.AppendLine(string.Format("{0,2}  {1,-13} {2,6} {3,6} {4,7}   {5,4} {6,4}",
+                    //     "N", "Punto", "X", "Y", "Z", "Px", "Py"));
 
                     for (int i = 0; i < 21; i++)
                     {
-                        double x = pts[3 * i].GetDouble();
-                        double y = pts[3 * i + 1].GetDouble();
-                        double z = pts[3 * i + 2].GetDouble();
+                        float x = (float)pts[3 * i].GetDouble();
+                        float y = (float)pts[3 * i + 1].GetDouble();
+                        //float z = (float)pts[3 * i + 2].GetDouble();
                         xs[i] = x;
                         ys[i] = y;
 
-                        texto.AppendLine(FormattableString.Invariant(
-                            $"{i,2}  {Nombres[i],-13} {x,6:0.000} {y,6:0.000} {z,7:+0.000;-0.000;0.000}   {x * w,4:0} {y * h,4:0}"));
+                        //     texto.AppendLine(FormattableString.Invariant(
+                        //         $"{i,2}  {Nombres[i],-13} {x,6:0.000} {y,6:0.000} {z,7:+0.000;-0.000;0.000}   {x * w,4:0} {y * h,4:0}"));
                     }
 
-                    EstadoTexto.Text = texto.ToString();
-                    ReconocerMano(xs, ys);
+                    Direccion orden = ReconocerMano(xs, ys);
+                    EstadoTexto.Text = orden.ToString();
+                    ProcesarDireccion(orden);
                     break;
             }
         }
 
-        private void ReconocerMano(double[] xs, double[] ys) // Si
+        private Direccion ReconocerMano(float[] xs, float[] ys) // Si
         {
-            // La cámara se muestra como un espejo, así que se invierte X (1 - x)
-            // para que el dibujo se mueva igual que la mano que se ve en el vídeo.
-            double X(int i) => (1 - xs[i]) * Ancho;
-            double Y(int i) => ys[i] * Alto;
+            Direccion orden = Direccion.Nada;
 
-
-            double indicePuntaX = xs[8];
-            double indicePuntaY = ys[8];
-
-
-            // Muñeca 0, pulgar base 1, pulgar medio1 2, pulgar medio2 3, pulgar punta 4 ...
-            for (int i = 5; i < 21; i++)
+            for (int i = 4; i < xs.Length; i = i + 4)
             {
+                float margenDistancia = 0.08f;
+                float indicePuntaX = xs[i];
+                float indicePuntaY = ys[i];
 
+                float indiceBaseX = xs[i - 3];
+                float indiceBaseY = ys[i - 3];
 
+                float dx = indiceBaseX - indicePuntaX;
+                float dy = indiceBaseY - indicePuntaY;
 
+                float distancia = MathF.Sqrt(dx * dx + dy * dy);
+                if (distancia < margenDistancia)
+                {
+                    return Direccion.Nada;
+                }
 
+                float anguloRad = MathF.Atan2(-dy, dx);
+                float anguloDeg = anguloRad * (180.0f / MathF.PI);
+
+                anguloDeg = (anguloDeg % 360.0f + 360.0f) % 360.0f;
+
+                // 3. Clasificación cardinal
+                return anguloDeg switch
+                {
+                    >= 45.0f and < 135.0f => orden = Direccion.Abajo,
+                    >= 135.0f and < 225.0f => orden = Direccion.Izquierda,
+                    >= 225.0f and < 315.0f => orden = Direccion.Arriba,
+                    _ => orden = Direccion.Derecha
+                };
             }
-
+            // Muñeca 0, pulgar base 1, pulgar medio1 2, pulgar medio2 3, pulgar punta 4 ..
+            return orden;
         }
 
         // Flecha equivalente a cada palabra, para no depender solo del

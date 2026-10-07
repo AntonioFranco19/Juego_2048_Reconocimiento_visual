@@ -8,11 +8,34 @@
     ".NETCoreApp,Version=v10.0": {
       "Juego_2048/1.0.0": {
         "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.4258.31",
           "NAudio": "3.1.0",
-          "Vosk": "0.3.38"
+          "Vosk": "0.3.38",
+          "Microsoft.Web.WebView2.Core": "1.0.4258.31",
+          "Microsoft.Web.WebView2.WinForms": "1.0.4258.31",
+          "Microsoft.Web.WebView2.Wpf": "1.0.4258.31"
         },
         "runtime": {
           "Juego_2048.dll": {}
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.4258.31": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.4258.31"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.4258.31"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.4258.31"
+          }
         }
       },
       "NAudio/3.1.0": {
@@ -125,6 +148,30 @@
             "fileVersion": "0.0.0.0"
           }
         }
+      },
+      "Microsoft.Web.WebView2.Core/1.0.4258.31": {
+        "runtime": {
+          "Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.4258.31",
+            "fileVersion": "1.0.4258.31"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2.WinForms/1.0.4258.31": {
+        "runtime": {
+          "Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.4258.31",
+            "fileVersion": "1.0.4258.31"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2.Wpf/1.0.4258.31": {
+        "runtime": {
+          "Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.4258.31",
+            "fileVersion": "1.0.4258.31"
+          }
+        }
       }
     }
   },
@@ -133,6 +180,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.4258.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sHVZ2MQrHT1J3q5/6csn0fIP27rzpTO/RRC+wPQDrZheB7T4t2n+vVbY6SdCKr4WRV9s/gmBM3PPMWWJtoDzMg==",
+      "path": "microsoft.web.webview2/1.0.4258.31",
+      "hashPath": "microsoft.web.webview2.1.0.4258.31.nupkg.sha512"
     },
     "NAudio/3.1.0": {
       "type": "package",
@@ -203,6 +257,21 @@
       "sha512": "sha512-W/me6nwF7fq9uWVmqbmWvPx3DjhMSzb9D85IZa0FUg2PIxcWjfG55vYHBc+9xCuNL/zohIBRYTKiP4itnMU3ww==",
       "path": "vosk/0.3.38",
       "hashPath": "vosk.0.3.38.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2.Core/1.0.4258.31": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2.WinForms/1.0.4258.31": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2.Wpf/1.0.4258.31": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

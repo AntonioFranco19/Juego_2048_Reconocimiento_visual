@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1hChZ8V1v8M=",
+  "dgSpecHash": "djSPIVCxCPI=",
   "success": true,
-  "projectFilePath": "D:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj",
+  "projectFilePath": "d:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1821195\\.nuget\\packages\\microsoft.web.webview2\\1.0.4258.31\\microsoft.web.webview2.1.0.4258.31.nupkg.sha512",
     "C:\\Users\\1821195\\.nuget\\packages\\naudio\\3.1.0\\naudio.3.1.0.nupkg.sha512",

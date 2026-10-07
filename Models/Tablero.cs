@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Juego_2048.Models
 {
-    public enum Direccion { Arriba, Abajo, Izquierda, Derecha }
+    public enum Direccion { Arriba, Abajo, Izquierda, Derecha, Nada }
     public class Tablero
     {
         private readonly int[,] _celdas = new int[4, 4];

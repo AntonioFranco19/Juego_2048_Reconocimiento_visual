@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj": {}
+    "d:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj": {}
   },
   "projects": {
-    "D:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj": {
+    "d:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj",
+        "projectUniqueName": "d:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj",
         "projectName": "Juego_2048",
-        "projectPath": "D:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj",
+        "projectPath": "d:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\Juego_2048.csproj",
         "packagesPath": "C:\\Users\\1821195\\.nuget\\packages\\",
-        "outputPath": "D:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\obj\\",
+        "outputPath": "d:\\DESARROLLO DE APLICACIONES MULTIPLATAFORMA\\2º\\Desarrollo de Interfaces\\Proyectos y tareas\\Juego_2048_Reconocimiento_visual\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

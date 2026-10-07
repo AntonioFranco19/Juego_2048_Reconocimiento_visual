@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Juego_2048"
+        xmlns:wv2="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf"
         mc:Ignorable="d"
         Title="MainWindow"
         Height="450"
@@ -55,6 +56,14 @@
             <TextBlock x:Name="VozComandoTexto"/>
             <TextBlock x:Name="EstadoTexto"/>
         </StackPanel>
+        <Border Grid.Row="1"
+                Grid.Column="0"
+                Height="0"
+                Width="0"
+                Background="Black"
+                Margin="0,0,10,0">
+            <wv2:WebView2 x:Name="Visor"/>
+        </Border>
 
     </Grid>
 </Window>
